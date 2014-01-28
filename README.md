@@ -1,8 +1,5 @@
-Le-royaume-de-Baboost
+Le royaume de Baboost
 =====================
-
-Tentative de RPG.
-
 
 Introduction
 ------------
